@@ -1,7 +1,8 @@
 # ABM-Beyond-Buzzwords-
 Why 90% of SaaS Companies Fail at It
 
-Introduction
+Introduction;
+
 Account-Based Marketing (ABM) has become one of the most overused buzzwords in B2B SaaS. While every company claims to “do ABM,” most simply run email blasts or targeted ads and call it strategy. This repo explains:
 Why most ABM programs fail
 How to design ABM that actually drives pipeline
